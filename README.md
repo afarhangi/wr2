@@ -1,1 +1,1 @@
-# wr2
+# Weighted Round Robin Service (WR2)
